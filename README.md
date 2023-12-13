@@ -1,3 +1,3 @@
-# Carrinho-seguidor-de-linha-
-Codigo feito para o projeto de desenvolvimento de um carrinho inteligente para o programa do governo "Espaço 4.0" na escola tecnica A.A.V.
-Plataforma utilizada foi ARDUINO GENUINO.
+# Line-follower-cart
+Code made for the project to develop a smart cart for the government program "Space 4.0" at the A.A.V technical school.
+Platform used was ARDUINO GENUINO.
